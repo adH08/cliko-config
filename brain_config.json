@@ -1,0 +1,11 @@
+{
+  "status": "active",
+  "min_version": "0.1.0",
+  "motd": "Welcome to Cliko v2 (Medical Grade)",
+  "security": {
+    "blacklist_enabled": true,
+    "whitelist_enabled": false,
+    "banned_hwids": [],
+    "allowed_hwids": []
+  }
+}
